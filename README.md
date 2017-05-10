@@ -1,6 +1,6 @@
 # Ruby Chess
 
-![alt tag](docs/screenshots/ruby_chess.png)
+![alt tag](docs/ruby_chess.png)
 
 # Instructions for playing
 
